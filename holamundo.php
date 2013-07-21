@@ -10,4 +10,5 @@ $a=$a+1;
 echo "numero: ".$a."<br>";
 }
 
+echo "hola, Me Llamo Peru".$a;
 ?>
